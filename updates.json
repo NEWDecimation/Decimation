@@ -1,0 +1,9 @@
+{
+   "releases":[
+      [
+         "1.21.10f",
+         "https://github.com/boehmod/DecimationRelease/releases/download/1.21.10f/Decimation.jar",
+         "Large patch for various bugs"
+      ]
+   ]
+}
